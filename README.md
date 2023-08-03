@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitya Ranjan Behera</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=1000&lines=Hello+there+%2C+I+am+Nitya+Ranjan+Behera;Looking+forward+for+more+Automation+Testint+opportunities" alt="Typing SVG" /></a>
+
 <h3 align="center">A passionate Software Tester from India</h3>
 
 <img aling="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
